@@ -1,0 +1,7 @@
+{
+    "name": "rytis/doctrine",
+    "description":"",
+    "require": {
+        "doctrine/orm": "^2.7"
+    }
+}
